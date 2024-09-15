@@ -8,7 +8,7 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 ---
 ### University Projects:
 
-[Bound By Soul](https://github.com/IsFriskis/utad-unity-jam/tree/main/UnityJam](https://github.com/IsFriskis/utad-unity-jam)
+[Bound By Soul](https://github.com/IsFriskis/utad-unity-jam)
 
 [The Undead Simulation](https://github.com/ElCaballeroTrix/TheUndeadSimulation)
 
