@@ -11,8 +11,10 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 [Bound By Soul](https://github.com/IsFriskis/utad-unity-jam)
 
 [The Undead Simulation](https://github.com/ElCaballeroTrix/TheUndeadSimulation)
+  A small project formed by 5 programmers where I was in charge of the interface and the player
 
 [Super Pang LookALike](https://github.com/ElCaballeroTrix/SuperPangLookALike)
 
-Working in the university game [Ghunter](https://www.linkedin.com/company/tiny-tavern-ghunter/posts/?feedView=all)
+Working in the university game [Ghunter](https://www.linkedin.com/company/tiny-tavern-ghunter/posts/?feedView=all). 
+  I did the logic for the whole Tavern, the settings, titlescreen, the inventory, the three weapons called "Ingredients", the chest, the statues, the progression system, and narrative.
 
