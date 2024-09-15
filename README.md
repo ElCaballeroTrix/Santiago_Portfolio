@@ -15,6 +15,6 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 
 [Super Pang LookALike](https://github.com/ElCaballeroTrix/SuperPangLookALike)
 
-Working in the university game [Ghunter](https://www.linkedin.com/company/tiny-tavern-ghunter/posts/?feedView=all)\ 
-  I did the logic for the whole Tavern, the settings, titlescreen, the inventory, the three weapons called "Ingredients", the chest, the statues, the progression system, and narrative.
+Working in the university game [Ghunter](https://www.linkedin.com/company/tiny-tavern-ghunter/posts/?feedView=all)\
+I did the logic for the whole Tavern, the settings, titlescreen, the inventory, the three weapons called "Ingredients", the chest, the statues, the progression system, and narrative.
 
