@@ -9,9 +9,9 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 ### University Projects:
 
 [Bound By Soul](https://github.com/IsFriskis/utad-unity-jam)\
-  A small project formed by 5 programmers where I was in charge of the interface and the player
+  A small project formed by 5 programmers where I was in charge of the interface and the player\
+  
 [The Undead Simulation](https://github.com/ElCaballeroTrix/TheUndeadSimulation)
-
 
 [Super Pang LookALike](https://github.com/ElCaballeroTrix/SuperPangLookALike)
 
