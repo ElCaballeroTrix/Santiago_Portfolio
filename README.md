@@ -8,3 +8,11 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 ---
 ### University Projects:
 
+[Bound By Soul](https://github.com/IsFriskis/utad-unity-jam/tree/main/UnityJam](https://github.com/IsFriskis/utad-unity-jam)
+
+[The Undead Simulation](https://github.com/ElCaballeroTrix/TheUndeadSimulation)
+
+[Super Pang LookALike](https://github.com/ElCaballeroTrix/SuperPangLookALike)
+
+Working in the university game [Ghunter](https://www.linkedin.com/company/tiny-tavern-ghunter/posts/?feedView=all)
+
