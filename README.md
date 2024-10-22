@@ -6,8 +6,10 @@ A junior game programmer with experiencie in informatics thanks to the degree in
 
 <img src="https://github.com/user-attachments/assets/0aca6895-9529-4243-a1cb-58cf0ba0d6c9" width = "100">
 
-Working in the university game [Ghunter](https://store.steampowered.com/app/3156000/GHUNTER/)\
-I did the logic for the whole Tavern, the commands, the settings, titlescreen, the inventory, the three weapons called "Ingredients", the chest, the statues, the progression system, dialogs, unlockable notes, death screen, upgrades of player and the tutorial for the tavern.
+#### Ghunter
+I did the logic for the whole Tavern, the commands, the settings, titlescreen, the inventory, the three weapons called "Ingredients", the chest, the statues, the progression system, dialogs, unlockable notes, death screen, upgrades of player and the tutorial for the tavern.\
+Steam: [Ghunter](https://store.steampowered.com/app/3156000/GHUNTER/)\
+Wiki: [Ghunter Wiki](https://ghunter.fandom.com/wiki/GHUNTER_Wiki)
 
 [Super Pang LookALike](https://github.com/ElCaballeroTrix/SuperPangLookALike)\
  An university project in c++ where I recreated Super Pang
